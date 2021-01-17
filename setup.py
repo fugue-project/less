@@ -27,7 +27,7 @@ setup(
     author_email="goodwanghan@gmail.com",
     keywords="interfaceless",
     url="http://github.com/fugue-project/less",
-    install_requires=["traid>=0.5.0"],
+    install_requires=["triad>=0.5.0"],
     classifiers=[
         # "3 - Alpha", "4 - Beta" or "5 - Production/Stable"
         "Development Status :: 3 - Alpha",
